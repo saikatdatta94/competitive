@@ -3,7 +3,7 @@ public class Main {
 
         int[] myArr = {1,4,3,3,5,2,6};
        
-        System.out.println(findAllPairsOfSum(myArr,0,myArr.length-1,9);
+        System.out.println(findAllPairsOfSum(myArr,myArr.length-1,9);
     }
 
    
